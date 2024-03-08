@@ -1,5 +1,4 @@
-### This is a dedicated Git repo for https://literalhat.com/.
-### All code is mine unless specified otherwise.
+
 
 <!--
 **LiteralHat/LiteralHat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
